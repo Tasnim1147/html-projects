@@ -10,7 +10,6 @@ This repository contains a collection of HTML-only projects. These projects are 
 
 ## To-Do List
 
-- [ ] Add more projects
-- [ ] Improve accessibility of existing projects
-- [ ] Optimize HTML code for better performance
-- [ ] Add comments to code for better readability
+- [ ] Project based on semantic html
+- [ ] Project based on web accessibility
+- [ ] Project based on SEO
