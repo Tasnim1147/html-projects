@@ -6,7 +6,15 @@ This repository contains a collection of HTML-only projects. These projects are 
 
 1. **Project 1:** Website-1
    - Location: `freecodecamp/website-1.html`
-   - Description: A website showcasing most common html elements.
+   - Description: A website showcasing common html elements.
+
+2. **Project 2:** [Learnyouhtml](https://github.com/denysdovhan/learnyouhtml)
+   - Location: `interactive/*.html`
+   - Description: Solutions to the interactive html course.
+
+3. **Project 3:** Group
+   - Location: `personal/*.html`
+   - Description: Websites showcasing related html elements.
 
 ## To-Do List
 
